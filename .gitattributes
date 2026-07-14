@@ -8,3 +8,7 @@ macos/* linguist-vendored
 
 # التأكيد على أن ملفات Dart هي الأساسية ومكتوبة بواسطة المستخدم
 *.dart linguist-detectable=true
+
+*.cpp linguist-detectable=false
+*.h linguist-detectable=false
+*.html linguist-detectable=false
